@@ -1,13 +1,13 @@
 # MR.Fox - My first game on github!
 
-Hello Everyone, MY name is Lucas, i'm very excited to say that i'm sharing my first game here in github.
+Hello Everyone, My name is Lucas, i'm very excited to say that i'm sharing my first game here in github.
 Its not actually my first game, but Mr.Fox is the first one i'm sharing and making it public in a ceirtain way.
 I know its not that much espetacular but i'm very proud of what i have been able to accomplish with this game and the way it is inspiring me to make even more!
 
-All the arts that i used are not from my authoral rights, thay are from SunnyLand Pack from unity asset Store
+All the arts that I used are not from my authoral rights, thay are from SunnyLand Pack from unity asset Store
 Here is the link: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
 
-I gave this game my personal touch bu i had a lot of help with the tutorial series of Alvin Roe, in his youtube channel, this series of videos help me remenber and learn a lot of things about creating a game.
+I gave this game my personal touch but I had a lot of help with the tutorial series of Alvin Roe, in his youtube channel, this series of videos help me remenber and learn a lot of things about creating a game.
 Here's the link: https://www.youtube.com/watch?v=rMr1sHQ0_bc&list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH&index=1&ab_channel=AlvinRoe
 
 
