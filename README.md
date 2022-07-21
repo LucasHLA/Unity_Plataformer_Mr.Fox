@@ -1,4 +1,4 @@
-# MR.Fox - My first game on github!
+# Mr.Fox - My first game on github!
 
 Hello Everyone, My name is Lucas, i'm very excited to say that i'm sharing my first game here in github.
 Its not actually my first game, but Mr.Fox is the first one i'm sharing and making it public in a ceirtain way.
